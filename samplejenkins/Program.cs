@@ -10,7 +10,8 @@ namespace samplejenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hey there jenkins");   
+            Console.WriteLine("hey there jenkins");
+             Console.WriteLine("hey there again")
         }
     }
 }

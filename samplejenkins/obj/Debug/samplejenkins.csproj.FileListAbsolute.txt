@@ -1,0 +1,7 @@
+C:\gitwork\day3\samplejenkins\samplejenkins\bin\Debug\samplejenkins.exe.config
+C:\gitwork\day3\samplejenkins\samplejenkins\bin\Debug\samplejenkins.exe
+C:\gitwork\day3\samplejenkins\samplejenkins\bin\Debug\samplejenkins.pdb
+C:\gitwork\day3\samplejenkins\samplejenkins\obj\Debug\samplejenkins.csprojAssemblyReference.cache
+C:\gitwork\day3\samplejenkins\samplejenkins\obj\Debug\samplejenkins.csproj.CoreCompileInputs.cache
+C:\gitwork\day3\samplejenkins\samplejenkins\obj\Debug\samplejenkins.exe
+C:\gitwork\day3\samplejenkins\samplejenkins\obj\Debug\samplejenkins.pdb
